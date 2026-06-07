@@ -91,14 +91,6 @@ Developed a method to automatically generate REST API test cases using large lan
 
 ---
 
-## GitHub stats
-
-<p align="center">
-
-<!-- Or use this simpler always-works card -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedaadils&theme=default)
-
-<p align="center">
   <i>Open to full-time backend / AI/ML SDE roles — feel free to reach out!</i>
 </p>
 
