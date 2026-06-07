@@ -94,9 +94,11 @@ Developed a method to automatically generate REST API test cases using large lan
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedaadils&show_icons=true&hide_border=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaadils&layout=compact&hide_border=true" height="150"/>
-</p>
+<!-- Stats — uses readme-stats alternative -->
+![Stats](https://github-readme-streak-stats.herokuapp.com?user=mohammedaadils&hide_border=true)
+
+<!-- Or use this simpler always-works card -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedaadils&theme=default)</p>
 
 ---
 
