@@ -66,6 +66,11 @@ Currently seeking **full-time SDE roles** in backend or AI/ML development.
 
 ## Featured projects
 
+### 🤖 Automatic Testcase Generator
+> Python · Flask · GPT-2 · Transformers · PyTorch
+
+AI tool that generates Postman-compatible API test cases from natural language prompts, reducing manual test authoring time by ~65%. Backed by arXiv publication (2024).
+
 ### 🔗 Webhook Delivery Engine
 > Java · Spring Boot · MySQL · Docker · AWS EC2
 
@@ -74,12 +79,15 @@ Async event fan-out engine delivering HTTP POST webhooks to subscribers with per
 ### 🧬 DeepMorph — AI DNA Mutation Prediction
 > Python · PyTorch · CNN-LSTM · FastAPI · NumPy
 
-Hybrid CNN–LSTM multi-task learning system for DNA sequence analysis — simultaneously predicts mutation status, gene classification, and clinical significance. FastAPI inference pipeline provides REST-based risk-level interpretation.
+Hybrid CNN–LSTM multi-task learning system for DNA sequence analysis — simultaneously predicts mutation status, gene classification, and clinical significance. FastAPI inference pipeline provides REST-based risk-level interpretation, reducing manual classification effort by ~50%.
 
-### 🤖 Automatic Testcase Generator
-> Python · Flask · GPT-2 · Transformers · PyTorch
+### 🗳️ Blockchain-Based Voting System
+> Solidity · Hardhat · Ethers.js · MetaMask · Node.js
 
-AI tool that generates Postman-compatible API test cases from natural language prompts, reducing manual test authoring time by ~65%. Backed by arXiv publication (2024).
+Decentralized voting application deployed on the Ethereum blockchain. Smart contracts enforce one-vote-per-address, support dynamic party management, and ensure tamper-proof immutable vote records. Tested with Hardhat and integrated with MetaMask for wallet-based authentication.
+
+[→ View repo](https://github.com/mohammedaadils/Blockchain-Based-Voting-System)
+
 
 ---
 
