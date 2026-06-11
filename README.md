@@ -101,8 +101,6 @@ status:     Open to full-time SDE roles
   &nbsp;
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -113,8 +111,6 @@ status:     Open to full-time SDE roles
   <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman&theme=dark&perline=7" alt="DevOps"/>
   &nbsp;
   <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SAP%20B1-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/>
 </p>
 
 ---
@@ -305,13 +301,11 @@ Built and optimized UI components across multiple client-facing web modules, imp
 **MS SQL & Data Systems Intern** &nbsp;·&nbsp; Indus Novateur Software Pvt. Ltd &nbsp;·&nbsp; Coimbatore, India
 `Jun 2025 – Jul 2025`
 
-Worked on ERP data integrity and XML-based workflow configuration for SAP Business One deployments.
 
 - Wrote and executed MS SQL queries for data extraction, validation, and reconciliation across 4+ ERP modules
 - Configured XML-based data imports and field mappings, resolving 10+ workflow inconsistencies during deployment
 
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![SAP B1](https://img.shields.io/badge/SAP%20B1-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logoColor=white)
 
 </td>
@@ -337,55 +331,7 @@ Worked on ERP data integrity and XML-based workflow configuration for SAP Busine
 
 ---
 
-## ◈ Certifications
 
-<p align="center"><strong>AWS</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Foundations"/>
-</p>
-
-<p align="center"><strong>Oracle</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Oracle%20Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java"/>
-</p>
-
-<p align="center"><strong>NPTEL</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL%20Programming%20in%20Java-0066CC?style=for-the-badge&logo=java&logoColor=white" alt="NPTEL Java"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL%20Python%20for%20Data%20Science-0066CC?style=for-the-badge&logo=python&logoColor=white" alt="NPTEL Python"/>
-</p>
-
-<p align="center"><strong>Cisco</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco%20Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity"/>
-</p>
-
----
-
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/mohammedaadils" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/mohammedaadils" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/mohammedaadils" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/mohammedaadils" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-</p>
-
----
 
 ## ◈ GitHub Analytics
 
@@ -397,14 +343,6 @@ Worked on ERP data integrity and XML-based workflow configuration for SAP Busine
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohammedaadils&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" alt="GitHub Streak"/>
-</p>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedaadils&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title_color=A78BFA" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -457,25 +395,24 @@ open_to:
 
 <p align="center">
   <a href="mailto:thasinaadil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-thasinaadil%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-thasinaadil%40gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-aadil-48389a25a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-mohammed--aadil--48389a25a-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-mohammed--aadil--48389a25a-6D28D9?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/mohammedaadils" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mohammedaadils-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-mohammedaadils-5B21B6?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 <p align="center">
   <a href="https://arxiv.org/abs/2404.10678" target="_blank">
-    <img src="https://img.shields.io/badge/arXiv-2404.10678-4C1D95?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
+    <img src="https://img.shields.io/badge/arXiv-2404.10678-4C1D95?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
 </p>
-
 ---
 
 <p align="center">
