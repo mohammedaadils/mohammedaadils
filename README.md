@@ -361,7 +361,6 @@ Built and optimized UI components across multiple client-facing web modules, imp
   <img src="https://raw.githubusercontent.com/mohammedaadils/mohammedaadils/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-> **To enable the snake:** Go to your profile repo → Actions → Create a new workflow using [this action](https://github.com/Platane/snk).
 
 ---
 
