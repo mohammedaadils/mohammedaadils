@@ -331,39 +331,6 @@ Built and optimized UI components across multiple client-facing web modules, imp
 
 ---
 
-
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedaadils&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaadils&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" height="170" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammedaadils&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" alt="GitHub Streak"/>
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedaadils&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohammedaadils/mohammedaadils/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
-
----
-
 ## ◈ Current Focus
 
 ```yaml
