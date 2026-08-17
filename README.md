@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Mohammed%20Aadil%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20API%20Infrastructure%20%E2%80%A2%20Published%20Researcher&descAlignY=58&descSize=16&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Mohammed%20Aadil%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Systems%20%E2%80%A2%20NestJS%20%2B%20Next.js%20%E2%80%A2%20Published%20Researcher&descAlignY=58&descSize=16&descColor=c4b5fd" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%E2%80%94+Backend+%26+APIs;Spring+Boot+%7C+FastAPI+%7C+Docker+%7C+MySQL;Designing+fault-tolerant+distributed+systems;Deployed+to+AWS+EC2+%E2%80%94+not+just+localhost;arXiv+published+%E2%80%94+research+meets+engineering;Open+to+full-time+SDE+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%E2%80%94+Full-Stack+%2B+APIs;NestJS+%7C+Next.js+%7C+React+%7C+TypeScript;End-to-end+ownership+%E2%80%94+CI%2FCD+%2B+Azure;Full-stack+enterprise+applications;arXiv+published+%E2%80%94+research+meets+engineering;Open+to+full-time+SDE+roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/B.Tech%20CSE-Crescent%20University%20%E2%80%A2%20CGPA%208.54-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" alt="Education"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Research-arXiv%202024%20Published-6D28D9?style=flat-square&logo=arxiv&logoColor=white" alt="Research"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 <p align="center">
@@ -48,13 +46,13 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a software engineer with a backend focus — I care about how systems are designed, how APIs contract with their consumers, and what it takes to make a service actually reliable in production. I graduated from Crescent University in 2026 (CGPA 8.54) and have been building real backend systems since my second year.
+I'm a software engineer working end-to-end — frontend, backend, and deployment — currently building enterprise applications at Indus Novateur. I graduated from Crescent University in 2026 (CGPA 8.54) and have been building real systems since my second year.
 
-My strongest work is in Java and Python — Spring Boot for production-grade services, FastAPI for inference APIs. I've deployed a webhook delivery engine to AWS EC2 with Docker Compose, designed the retry logic, and built the audit schema from scratch. That's the kind of engineering I enjoy: boring infrastructure that silently handles the edge cases.
+My current stack is NestJS on the backend and Next.js/React on the frontend, all in TypeScript. At Indus, I own a ticketing system from architecture through to production — I write the API layer, build the UI, and handle CI/CD and Azure deployment myself. That end-to-end ownership is the kind of engineering I enjoy: not just writing features, but shipping and running them.
 
-I also happen to have an arXiv publication from 2024 — LLM-based REST API test automation — which started as internship work at a Toronto startup and grew into something worth publishing. It's a differentiator I'm proud of, but my day-to-day identity is backend engineering, not research.
+I also happen to have an arXiv publication from 2024 — LLM-based REST API test automation — which started as internship work at a Toronto startup and grew into something worth publishing. It's a differentiator I'm proud of, and it sits alongside hands-on ML work in Python (Spring Boot/FastAPI/PyTorch) from earlier projects and internships.
 
-**What drives me:** Clean service boundaries, observable systems, and code that holds up six months after it ships.
+**What drives me:** Owning a system end-to-end — from the API contract to the deploy pipeline — and code that holds up six months after it ships.
 
 </td>
 <td width="40%" valign="top">
@@ -62,20 +60,20 @@ I also happen to have an arXiv publication from 2024 — LLM-based REST API test
 **Core Identity**
 
 ```yaml
-role:       Software Engineer — Backend & APIs
-stack:      Java, Spring Boot, Python, FastAPI
-highlight:  arXiv Published · AWS EC2 Deployed
-deployment: Docker Compose on EC2 (production)
-focus:      Distributed systems, API design, reliability
-status:     Open to full-time SDE roles
+role:       Software Engineer — Full-Stack & APIs
+company:    Indus Novateur Softech Pvt Ltd
+stack:      NestJS, Next.js, React, TypeScript
+deployment: CI/CD · Azure
+highlight:  arXiv Published · End-to-End Ownership
+focus:      Enterprise apps, API design, deployment
+status:     Software Engineer, AI Tech Core Team
 ```
 
 **Open To**
 
-- Full-time Backend / SDE roles (Java or Python stack)
-- Remote or Chennai-based positions
-- Startups and product companies building real infrastructure
-- Roles in API platforms, event-driven systems, or backend services
+- Full-Stack SDE-1/2 roles (NestJS, Next.js, TypeScript stack)
+- Roles that blend full-stack engineering with applied AI/LLM work
+- Product companies building real engineering infrastructure
 
 </td>
 </tr>
@@ -87,12 +85,23 @@ status:     Open to full-time SDE roles
 
 <p align="center">
   <strong>Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,solidity,html,css&theme=dark&perline=7" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=ts,java,python,js,cpp,solidity,html,css&theme=dark&perline=8" alt="Languages"/>
 </p>
 
 <p align="center">
-  <strong>Backend & Databases</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,mysql,mongodb,postgres&theme=dark&perline=7" alt="Backend and Databases"/>
+  <strong>Frontend & Backend</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,spring,fastapi,flask&theme=dark&perline=7" alt="Frontend and Backend"/>
+</p>
+
+<p align="center">
+  <strong>Databases & ORM</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&theme=dark&perline=7" alt="Databases"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logoColor=white" alt="TypeORM"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA Hibernate"/>
 </p>
 
 <p align="center">
@@ -108,22 +117,23 @@ status:     Open to full-time SDE roles
 
 <p align="center">
   <strong>Cloud, DevOps & Tooling</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman&theme=dark&perline=7" alt="DevOps"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+  <img src="https://skillicons.dev/icons?i=azure,docker,aws,git,github,githubactions,linux,postman,vscode&theme=dark&perline=9" alt="DevOps"/>
 </p>
 
 ---
 
-## ◈ Backend Engineering Depth
+## ◈ Engineering Depth
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |--------|-------------|---------|
-| **API Design** | ████████░░ Advanced | RESTful contracts, request/response modeling, versioning, FastAPI & Spring Boot |
-| **Async Systems** | ███████░░░ Proficient | Event fan-out, async webhook delivery, Spring Scheduler, non-blocking patterns |
-| **Database Design** | ███████░░░ Proficient | 4-table normalized schemas, JPA/ORM, SQL query optimization, audit logging |
+| **Full-Stack Development** | ████████░░ Advanced | NestJS backend + Next.js/React frontend, TypeScript end-to-end |
+| **API Design** | ████████░░ Advanced | RESTful contracts, request/response modeling, versioning — NestJS, FastAPI & Spring Boot |
+| **CI/CD & Deployment** | ███████░░░ Proficient | Owns deployment pipeline end-to-end, Azure App Service, environment configuration |
+| **Async Systems** | ███████░░░ Proficient | Event fan-out, async webhook delivery, non-blocking patterns |
+| **Database Design** | ███████░░░ Proficient | PostgreSQL & SQL schema design, query optimization, audit logging |
+| **ORM Tooling** | ███████░░░ Proficient | Prisma & TypeORM (NestJS/Next.js), JPA/Hibernate (Spring Boot) |
 | **Containerization** | ███████░░░ Proficient | Docker Compose multi-service stacks, image layering, AWS EC2 deployment |
 | **Retry & Resilience** | ███████░░░ Proficient | Exponential backoff, attempt-state machines, SQL-persisted delivery audit logs |
 | **Auth & Security** | ██████░░░░ Building | JWT-based auth, Spring Security, subscriber validation, endpoint protection |
@@ -135,6 +145,30 @@ status:     Open to full-time SDE roles
 ---
 
 ## ◈ Featured Projects
+
+<details>
+<summary><b>🎫 Ticketing System</b> &nbsp;—&nbsp; Enterprise ticketing platform at Indus Novateur</summary>
+
+<br/>
+
+An end-to-end enterprise ticketing system built and owned across the full stack — from API design through to deployment. Built as part of the AI Tech Core Team's suite of cloud-native enterprise applications.
+
+<div align="center">
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | NestJS, Next.js, React, TypeScript, PostgreSQL |
+| **Ownership** | Full-stack — backend APIs, frontend UI, CI/CD, and Azure deployment |
+| **Context** | Built alongside HRMS, ERP modules, billing automation, and a medicine tracking system (deployed in the UAE) |
+| **Employer** | Indus Novateur Softech Pvt Ltd, Chennai |
+
+</div>
+
+This is current, active work — end-to-end ownership of a production system rather than an isolated module, reflecting how a lean startup engineering team operates.
+
+</details>
+
+---
 
 <details>
 <summary><b>🔗 Webhook Delivery Engine</b> &nbsp;—&nbsp; Production-grade async event fan-out system</summary>
@@ -151,7 +185,7 @@ A Spring Boot service that delivers HTTP POST webhooks to registered subscribers
 | **Architecture** | Async fan-out, event-subscriber model, per-attempt state machine |
 | **Retry Logic** | Exponential backoff — 3 attempts at 30s / 60s / 120s intervals |
 | **Persistence** | SQL-persisted delivery audit log with attempt timestamps and status codes |
-| **Deployment** | Containerized via Docker Compose, live on AWS EC2 Ubuntu 24 (free tier) |
+| **Deployment** | Containerized via Docker Compose, deployed to AWS EC2 Ubuntu 24 (free tier) |
 | **Security** | Endpoint-level subscriber validation, isolated retry queue per event |
 | **Repository** | [github.com/mohammedaadils/webhook-engine](https://github.com/mohammedaadils/webhook-engine) |
 
@@ -250,6 +284,31 @@ Built to explore decentralized application architecture and smart contract desig
 <td width="8%" valign="top" align="center">🏢</td>
 <td width="92%">
 
+**Software Engineer** &nbsp;·&nbsp; [Indus Novateur Softech Pvt Ltd](https://indusnovateur.com) &nbsp;·&nbsp; Anna Nagar, Chennai
+`Jul 2026 – Present`
+
+On the AI Tech Core Team, building cloud-native enterprise applications end-to-end — currently owning a ticketing system, alongside HRMS, ERP modules, billing automation, and a medicine tracking system deployed in the UAE.
+
+- Building full-stack features with NestJS (backend) and Next.js/React (frontend) in TypeScript
+- Owning CI/CD and Azure deployment for shipped features — not just writing code, but running it in production
+- Working across enterprise application modules including HRMS, ERP, and billing automation
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="8%" valign="top" align="center">🏢</td>
+<td width="92%">
+
 **SDE Intern** &nbsp;·&nbsp; [Tactii (formerly TalentAccurate) Pvt. Ltd](https://tactii.com) &nbsp;·&nbsp; Toronto, Canada (Remote)
 `Aug 2023 – Apr 2024`
 
@@ -301,7 +360,6 @@ Built and optimized UI components across multiple client-facing web modules, imp
 **MS SQL & Data Systems Intern** &nbsp;·&nbsp; Indus Novateur Software Pvt. Ltd &nbsp;·&nbsp; Coimbatore, India
 `Jun 2025 – Jul 2025`
 
-
 - Wrote and executed MS SQL queries for data extraction, validation, and reconciliation across 4+ ERP modules
 - Configured XML-based data imports and field mappings, resolving 10+ workflow inconsistencies during deployment
 
@@ -322,6 +380,7 @@ Built and optimized UI components across multiple client-facing web modules, imp
 |-------------|---------|
 | 📄 **arXiv Publication** | *Automating REST API Postman Test Cases Using LLM* — April 2024 · [2404.10678](https://arxiv.org/abs/2404.10678) |
 | 🌐 **International Internship** | Remote SDE role at Tactii Pvt. Ltd, Toronto, Canada — backend APIs in production |
+| 💼 **Full-Time Software Engineer** | AI Tech Core Team, Indus Novateur Softech Pvt Ltd — end-to-end ownership from day one |
 | ☁️ **AWS EC2 Deployment** | Self-deployed Docker Compose stack on Ubuntu 24 EC2 — end-to-end backend ownership |
 | 🔗 **Production Backend System** | Webhook delivery engine with retry logic, audit schema, and live deployment |
 | ⛓️ **Blockchain DApp** | Ethereum-based voting system with Solidity smart contracts and Hardhat test suite |
@@ -335,24 +394,22 @@ Built and optimized UI components across multiple client-facing web modules, imp
 
 ```yaml
 learning:
-  - Spring Boot advanced patterns (Spring Security, JWT auth, circuit breakers)
   - System design — distributed systems, queue-based architectures, observability
   - DSA — working through structured problem-solving roadmap
+  - SQL — evening track alongside DSA
 
 building:
-  - Spring Boot service with JWT authentication and role-based access control
-  - Webhook engine v2 — adding idempotency keys and dead-letter queue handling
+  - Ticketing system at Indus Novateur (NestJS, Next.js, React, TypeScript)
+  - Retro gaming-themed personal portfolio site
 
 exploring:
   - API observability: structured logging, distributed tracing, health check patterns
-  - LangChain RAG pipelines as a backend API surface (secondary interest)
   - Microservices communication patterns (REST vs messaging)
 
 open_to:
-  - Full-time SDE roles — Backend / Java / Python stack
-  - Remote or Chennai-based positions
-  - Product companies and startups with real engineering depth
-  - Backend platform, API infrastructure, or distributed systems work
+  - Full-time Full-Stack SDE-1/2 roles
+  - Roles in the NestJS / Next.js / TypeScript stack
+  - Full-stack engineering, API infrastructure, and applied AI/LLM work
 ```
 
 ---
@@ -379,6 +436,7 @@ open_to:
     <img src="https://img.shields.io/badge/arXiv-2404.10678-4C1D95?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
