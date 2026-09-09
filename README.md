@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mohammedaadils.github.io" target="_blank">
+  <a href="https://mohammedaadil.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
